@@ -19,3 +19,17 @@ I just implemented a version that has better items and the roullete has the habi
 old way: `roll to desired position` > `wait new match result`
 
 new way: `roll to desired position` > `wait 2s` > `back to starting position` > `wait new match result`
+
+## Installation
+
+Just download the repo and than execute:
+
+```
+yarn
+```
+
+### Execution
+
+```
+yarn start
+```
